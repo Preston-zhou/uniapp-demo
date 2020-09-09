@@ -1,0 +1,15 @@
+.box2{
+	color:red
+}
+.box{
+	width:100px;
+	height: 100px;
+	background:#007AFF;
+}
+.box-active{
+	background-color: #DD524D;
+}
+.iconfont {
+	font-size: 50px;
+}
+
